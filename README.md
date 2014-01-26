@@ -20,6 +20,11 @@ Care-O-bot 3 installation for the the RoCKIn camp 2014
 		git clone https://github.com/mas-group/rockin_athome.git
 		cd rockin_athome 
 		rosinstall ../ /opt/ros/hydro ./repository.rosinstall
-		cd ..
+		cd ../..
 		catkin_make
+		
+		
+- Launching the robot in simulation
+		
+		roslaunch cob_bringup_sim robot.launch
 
