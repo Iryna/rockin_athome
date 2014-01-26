@@ -15,7 +15,7 @@ Care-O-bot 3 installation for the the RoCKIn camp 2014
 
 ## Installation
 
-- in your <catkin_workspace>/src directory
+- in your "catkin_workspace"/src directory
 
 		git clone https://github.com/mas-group/rockin_athome.git
 		cd rockin_athome 
