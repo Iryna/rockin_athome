@@ -28,3 +28,10 @@ Care-O-bot 3 installation for the the RoCKIn camp 2014
 		
 		roslaunch cob_bringup_sim robot.launch
 
+## script server
+
+- to execute the test script
+
+		rosrun script_server_tutorial test_script.py 
+		
+- to learn more take a look in "test_script.py"
